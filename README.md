@@ -7,7 +7,7 @@ Software Engineer
 I am cuurently software engineering
 
 *   🌍  I'm based in Morocco
-*   🖥️  See my portfolio at [Linkedin]([https://www.linkedin.com/in/mahfoud-hafdi-9a2a98222/])
+*   🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/mahfoud-hafdi-9a2a98222/)
 *   ✉️  You can contact me at [mhafdi11@gmail.com](mailto:mhafdi11@gmail.com)
 *   🧠  I'm learning New Frameworks
 
